@@ -10,6 +10,8 @@ In addition to professional network configurations, the Network Simulator suppor
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Bot-2-Bot](https://github.com/sourceduty/Bot-to-Bot)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
